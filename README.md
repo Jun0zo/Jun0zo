@@ -6,10 +6,25 @@
 
 </div>
 
+## Interest
+
+- machine learning
+- Knowledge Graph
+- Driverless Mobility
+
+<div align=center>
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun0zo&hide=contribs,prs&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
+<div align=center>
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joon0zo1022@gmail.com)](mailto:joon0zo1022@gmail.com)
+	
+</div>
 
 
 <!--
