@@ -17,7 +17,7 @@
 <div align=center>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun0zo&hide=contribs,prs&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0zo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
