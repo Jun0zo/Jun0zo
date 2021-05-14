@@ -12,7 +12,7 @@
 - Knowledge Graph
 - Driverless Mobility
 
-## Abuot Github
+## About Github
 
 <div align=center>
   
