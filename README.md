@@ -29,8 +29,8 @@
 
 ## Problem Solving
 
-![Jun0zo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=joon0zo1022)
-[![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joon0zo1022)](https://solved.ac/joon0zo1022) 
+// ![Jun0zo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=joon0zo1022)
+// [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joon0zo1022)](https://solved.ac/joon0zo1022) 
 
 <!--
 **Jun0zo/Jun0zo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
