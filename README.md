@@ -1,49 +1,18 @@
-### Hi there 👋
+Hi 👋 I'm Junyoung.
 
-<div align=center>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0zo&count_bg=%236EBE31&title_bg=%23555555&icon=fossa.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+AI Engineer working at the intersection of machine learning, simulation, and real-world systems.
 
-</div>
+I build:
+- Reinforcement learning agents in simulated environments
+- Vision-based perception models
+- AI-driven optimization systems for logistics and automation
 
-## Interest
+My long-term focus is on combining AI + Robotics + IoT to create scalable automation systems.
 
-- machine learning
-- Knowledge Graph
-- Driverless Mobility
+Research interests:
+• Reinforcement Learning  
+• World Models  
+• Autonomous Mobility  
+• Intelligent Supply Chain Systems  
 
-## About Github
-
-<div align=center>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun0zo&hide=contribs,prs&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0zo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align=center>
-	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joon0zo1022@gmail.com)](mailto:joon0zo1022@gmail.com)
-	
-</div>
-
-## Problem Solving
-
-\\<!-- ![Jun0zo's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=joon0zo1022)
-// [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=joon0zo1022)](https://solved.ac/joon0zo1022) -->
-
-<!--
-**Jun0zo/Jun0zo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring how simulation-based intelligence can transfer into real-world robotics and logistics.
