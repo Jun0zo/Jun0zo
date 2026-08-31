@@ -65,6 +65,26 @@ test("aggregates official OpenUsage provider snapshots", () => {
   )
 })
 
+test("aligns provider trends by calendar date", () => {
+  // Given
+  const apiResponse = structuredClone(SNAPSHOTS)
+  apiResponse[0].lines[1].points = [
+    { label: "8월 29일", value: 500_000_000 },
+    { label: "8월 30일", value: 700_000_000 },
+    { label: "8월 31일", value: 800_000_000 },
+  ]
+  apiResponse[1].lines[1].points = [
+    { label: "Aug 30", value: 500_000_000 },
+    { label: "Aug 31", value: 500_000_000 },
+  ]
+
+  // When
+  const activity = parseUsage(apiResponse)
+
+  // Then
+  assert.deepEqual(activity.dailyTokens, [500_000_000, 1_200_000_000, 1_300_000_000])
+})
+
 test("keeps provider order and image colors stable regardless of API order", () => {
   // Given
   const apiResponse = structuredClone(SNAPSHOTS).reverse()
@@ -77,6 +97,49 @@ test("keeps provider order and image colors stable regardless of API order", () 
   assert.ok(drawing.indexOf("Codex") < drawing.indexOf("Claude"))
   assert.match(drawing, /#19ad8c.*Codex/)
   assert.match(drawing, /#e8785b.*Claude/)
+})
+
+test("gives every spending provider its own donut sector", () => {
+  // Given
+  const apiResponse = structuredClone(SNAPSHOTS)
+  apiResponse.push({
+    providerId: "gemini",
+    displayName: "Gemini",
+    fetchedAt: "2026-08-31T03:55:31.000Z",
+    lines: [
+      { type: "text", label: "Last 30 Days", value: "$10.00 · 100M tokens" },
+      {
+        type: "barChart",
+        label: "Usage Trend",
+        points: [
+          { label: "Aug 29", value: 10_000_000 },
+          { label: "Aug 30", value: 20_000_000 },
+          { label: "Aug 31", value: 30_000_000 },
+        ],
+      },
+    ],
+  })
+
+  // When
+  const drawing = buildImageArguments(parseUsage(apiResponse), "card.png").join(" ")
+
+  // Then
+  assert.match(drawing, /#c084fc/)
+  assert.equal((drawing.match(/path 'M/g) ?? []).length, 3)
+})
+
+test("builds a larger mobile card variant", () => {
+  // Given
+  const activity = parseUsage(structuredClone(SNAPSHOTS))
+
+  // When
+  const arguments_ = buildImageArguments(activity, "mobile.png", "mobile")
+  const drawing = arguments_.join(" ")
+
+  // Then
+  assert.match(drawing, /-size 640x760/)
+  assert.match(drawing, /-pointsize 24/)
+  assert.equal(arguments_.at(-1), "mobile.png")
 })
 
 test("builds a PNG command from parsed OpenUsage data", () => {
@@ -120,6 +183,7 @@ test("writes a card by reading the OpenUsage HTTP API", async () => {
         ...process.env,
         OPENUSAGE_API_URL: "http://127.0.0.1:" + address.port + "/v1/usage",
         OPENUSAGE_CARD_OUTPUT: outputPath,
+        OPENUSAGE_MOBILE_CARD_OUTPUT: join(outputDirectory, "mobile.png"),
       },
       stdio: "pipe",
     })

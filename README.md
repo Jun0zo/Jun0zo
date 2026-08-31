@@ -88,7 +88,10 @@ I turn field knowledge, operational constraints, and human context into AI syste
 ## AI-assisted engineering activity
 
 <a href="https://github.com/robinebers/openusage">
-  <img width="100%" src="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/cards/openusage-last30.png" alt="OpenUsage snapshot for the last 30 days: API-equivalent estimate, tokens, active days, provider split, and daily token activity" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/cards/openusage-last30-mobile.png" />
+    <img width="100%" src="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/cards/openusage-last30.png" alt="OpenUsage snapshot for the last 30 days: API-equivalent estimate, tokens, active days, provider split, and daily token activity" />
+  </picture>
 </a>
 
 <sub>Generated from the open-source <a href="https://github.com/robinebers/openusage">OpenUsage</a> official local API. Figures cover the latest 30 days and are API-equivalent estimates, not actual subscription spending. Only aggregate metrics are published; prompts, source code, project names, and local paths remain private.</sub>
