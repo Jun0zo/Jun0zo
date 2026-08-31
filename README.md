@@ -87,11 +87,11 @@ I turn field knowledge, operational constraints, and human context into AI syste
 
 ## AI-assisted engineering activity
 
-<a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card">
-  <img width="100%" src="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/cards/ai-usage-full.svg" alt="AI coding usage: tokens, activity, top model, and tool breakdown" />
+<a href="https://github.com/robinebers/openusage">
+  <img width="100%" src="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/cards/openusage-last30.png" alt="OpenUsage snapshot for the last 30 days: API-equivalent estimate, tokens, active days, provider split, and daily token activity" />
 </a>
 
-<sub>Generated locally with the open-source <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card">AI Coding Usage Card</a>. The displayed cost is an API-equivalent estimate, not actual subscription spending. Only aggregate metrics are published; prompts, source code, project names, and local paths remain private.</sub>
+<sub>Generated from the open-source <a href="https://github.com/robinebers/openusage">OpenUsage</a> official local API. Figures cover the latest 30 days and are API-equivalent estimates, not actual subscription spending. Only aggregate metrics are published; prompts, source code, project names, and local paths remain private.</sub>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Jun0zo&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
