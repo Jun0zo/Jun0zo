@@ -1,41 +1,107 @@
-# Hi 👋 I'm Junyoung.
+<div align="center">
 
-**Transforming Human Domain Knowledge into Physical Intelligence.**
+# Junyoung Jo
 
-I am an AI Engineer and System Architect focused on bridging the gap between simulation and real-world deployment. My core interest lies in translating tacit field knowledge, operational constraints, and human context into intelligence that robots and systems can understand.
+### AI Engineer building intelligent systems from real-world domain knowledge
 
-## 🤖 AI-assisted Engineering Activity
+Robot Learning · NLP · AI-native Products · Operational Intelligence
 
-> **11 / 11 active days** · **1,509 agent-assisted tasks** · **2,395 development turns**
->
-> **GPT-5.6 85.6%** · **Claude 10.8%** · **Other models 3.6%**
+[![GitHub](https://img.shields.io/badge/GitHub-Jun0zo-181717?style=flat-square&logo=github)](https://github.com/Jun0zo)
+[![Email](https://img.shields.io/badge/Email-joon0zo1022%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joon0zo1022@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://jun0zo.github.io)
 
-<sub>Activity window: Aug 21–31, 2026 (KST). Aggregated from local Codex activity, including orchestrated subagents. Automatically generated metrics only; prompts, source code, private repository names, and local paths are never published.</sub>
+</div>
 
-## 🎯 Focus Areas
-- **Robot Learning & Sim-to-Real:** Building simulation intelligence (e.g., Dreamer) that overcomes physical noise in unstructured environments like off-road and agricultural terrain.
-- **Operational Intelligence:** Formalizing human know-how (e.g., safety margins, SOPs) into system logic and reward functions for massive logistics environments.
-- **Research Infrastructure:** Architecting reusable, trustworthy evaluation pipelines for complex, long-context AI tasks.
-- **Product Systems:** Designing AI-native architectures that expose reasoning and own the entire workflow.
+I turn field knowledge, operational constraints, and human context into AI systems that work beyond the lab. My work spans autonomous off-road robotics, AI evaluation, logistics intelligence, cybersecurity, and product engineering.
 
-## 💼 Experience
-- **Samsung SDS** (2025.02 - 2026.02) | *Data Analyst / Logistics System Optimization Intern*
-  - Designed warehouse layout relocation simulations and digitized inbound/outbound processes integrating WMS and SAP data.
-  - Achieved ~90% reduction in detention costs and 98.7% inventory audit accuracy by aligning system logic with field operational context and SOPs.
-- **R.O.K. Navy Cyber Operations Center** (2021.06 - 2023.01) | *Information Security Engineer*
-  - Operated real-time security monitoring and threat detection processes during mission-critical situations.
+## Selected impact
 
-## 🚀 Key Projects
-- **Autonomous Off-Road & Agricultural Robotics:** Overcoming Sim-to-Real gaps by combining Unity-based RL with LiDAR/YOLO-based navigation for real-world unstructured terrain.
-- **2stepED:** Architected an automated holistic scoring pipeline (R2C) for evaluating essay creativity, leading to a publication at NAACL 2025.
-- **InsightFlow:** Structured a qualitative research product tying project creation, survey design, and transcript analysis into one seamless AI-native workflow.
-- **Snappo:** Explored a photo-memory platform where users reclaim images through a code-based retrieval flow, focusing on ownership and recall.
+- **90% lower detention costs** and **98.7% inventory accuracy** through data-driven logistics optimization at **Samsung SDS America**.
+- Built and operated a marketing chatbot that served **25M users**, alongside a trend-analysis service for data-driven marketing.
+- Published research in **IEEE Access**, **NAACL Findings 2025**, and KCI journals; co-authored the book *Data Mining Learned with Python*.
+- Led a fully IITP-sponsored visiting research project at **Purdue University** on privacy-risk evaluation for drone imagery.
+- Defended mission-critical military networks as a **CERT security engineer** at the R.O.K. Navy Cyber Operations Center.
 
-## 📝 Selected Publications
-- **EMNLP (Under Review, 2026):** Automated Essay Scoring based on Multi-layer Encoders.
-- **NAACL Findings (2025):** Representation-to-Creativity (R2C): Automated Holistic Scoring Model for Essay Creativity.
-- **Purdue University Research (2024):** Evaluating Privacy Infringement Level in Drone-Captured Images Using Privacy Image Quality Assessment Algorithms *(Lead Researcher)*.
-- **KIIT Conference (2023):** Deep Reinforcement Learning Framework Considering Off-road Driving Environment for Autonomous Farm Robot *(Gold Award, Undergraduate Thesis Competition)*.
+## Experience
+
+### Samsung SDS America · Data Analyst Intern
+*Dalton, Georgia · Feb 2025 – Feb 2026*
+
+- Reduced detention costs by **90%** and raised inventory-process accuracy to **98.7%**.
+- Engineered warehouse-layout simulations and integrated SAP with Cello WMS to improve outbound visibility.
+- Converted implicit field knowledge and SOP–reality gaps into better operational system logic.
+
+### Data Intelligence Lab · Undergraduate Researcher
+*Kunsan, South Korea · Mar 2023 – Feb 2026*
+
+- Conducted research in autonomous off-road driving, sentiment intelligence, and automated essay evaluation.
+- Contributed to **2 KCI papers, 1 SCI paper, and NAACL Findings 2025**.
+- Participated in two industry–academic cooperation projects and co-authored a data-mining textbook.
+
+### Purdue University · Visiting Scholar
+*West Lafayette, Indiana · Mar 2024 – Jun 2024*
+
+- Led a fully IITP-sponsored research team in collaboration with Purdue's Computer and Information Technology department.
+- Developed methods for evaluating privacy infringement in drone-captured imagery.
+
+### R.O.K. Navy Cyber Operations Center · Information Security Engineer
+*Daejeon, South Korea · Jul 2021 – Jan 2023*
+
+- Monitored firewall, IDS/IPS, and SIEM feeds as part of the Navy CERT.
+- Built Splunk queries and a web service to visualize real-time intrusion attempts and threat patterns.
+- Detected and defended against Log4j exploitation without a major breach.
+
+## Featured work
+
+### [Autonomous Off-Road Driving](https://github.com/Jun0zo/visualize_dqn_simulation)
+Unity-based simulation and reinforcement-learning research for autonomous driving in unstructured agricultural terrain. Designed attention-based driving algorithms and supporting map-generation tooling.
+
+[Simulation](https://github.com/Jun0zo/visualize_dqn_simulation) · [Map generation](https://github.com/Jun0zo/generate_maps) · [Attention visualization](https://github.com/Jun0zo/attention-visualization)
+
+### [Representation-to-Creativity (R2C)](https://aclanthology.org/2025.findings-naacl.292/)
+An automated holistic scoring model for essay creativity, published in **Findings of NAACL 2025**. The work introduces a creativity-focused rubric, a 5,048-essay dataset, and a self-supervised scoring approach.
+
+[Paper](https://aclanthology.org/2025.findings-naacl.292/) · [Research code](https://github.com/Jun0zo/creativity-scoring)
+
+### [M-Javis Marketing Intelligence](https://github.com/Jun0zo/Javis_chatbot_server)
+A Kakao-based customer-engagement chatbot and marketing-trend analysis service. The chatbot served **25M users** and supported real-time interaction and feedback collection.
+
+[Chatbot server](https://github.com/Jun0zo/Javis_chatbot_server) · [Analysis](https://github.com/Jun0zo/Javis_analysis)
+
+### [InsightFlow](https://github.com/Jun0zo/insight-flow)
+An AI-native qualitative research platform connecting survey design, transcript analysis, and insight synthesis in one workflow.
+
+[Repository](https://github.com/Jun0zo/insight-flow)
+
+## Selected publications
+
+- **[Representation-to-Creativity (R2C): Automated Holistic Scoring Model for Essay Creativity](https://aclanthology.org/2025.findings-naacl.292/)** · Findings of NAACL 2025, pp. 5272–5290.
+- **[Efficient Sentiment-Aware Web Crawling Methods for Constructing Sentiment Dictionary](https://ieeexplore.ieee.org/document/9620107)** · IEEE Access 9, 2021, pp. 161208–161223. [DOI](https://doi.org/10.1109/ACCESS.2021.3129187)
+- **[Subtitle Automatic Extraction System for Short-form Contents](https://doi.org/10.14801/jkiit.2021.19.6.29)** · Journal of Korean Institute of Information Technology 19(6), 2021, pp. 29–37.
+- **Creative Essay Training Data Labeling System for Learning AI Models** · Journal of Korean Institute of Information Technology 21(10), 2023, pp. 69–82.
+
+## Education & recognition
+
+**B.S. in Software Engineering, Kunsan National University** · 2019–2026  
+GPA **3.88 / 4.5**, major GPA **3.99 / 4.5** · Highest academic standing in the department
+
+- **Gold Award**, Undergraduate Thesis Competition, KIIT Conference, 2023
+- **Chief of Naval Operations Prize**, OSAM Hackathon, 2022
+- **3rd Prize**, Youth Metaverse Content Development Competition, 2023
+- **Highest Honors**, 2023 Spring and 2020 Fall
+
+## AI-assisted engineering activity
+
+<a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card">
+  <img width="100%" src="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/cards/ai-usage-full.svg" alt="AI coding usage: tokens, activity, top model, and tool breakdown" />
+</a>
+
+<sub>Generated locally with the open-source <a href="https://github.com/Baek-Seunghyun/ai-coding-usage-card">AI Coding Usage Card</a>. The displayed cost is an API-equivalent estimate, not actual subscription spending. Only aggregate metrics are published; prompts, source code, project names, and local paths remain private.</sub>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jun0zo&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ---
-*"When machines fully understand human context, technology becomes the most powerful leverage to liberate, not replace."*
+
+<div align="center"><i>Building systems that make human context executable.</i></div>
