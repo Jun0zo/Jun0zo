@@ -41,6 +41,15 @@ I turn field knowledge, operational constraints, and human context into AI syste
 - Conducted research in autonomous off-road driving, sentiment intelligence, and automated essay evaluation.
 - Contributed to **2 KCI papers, 1 SCI paper, and NAACL Findings 2025**.
 - Participated in two industry–academic cooperation projects and co-authored a data-mining textbook.
+- Designed experiments for **Representation-to-Creativity (R2C)** and presented the work as the paper's **second author at NAACL 2025**.
+
+<div align="center">
+  <a href="https://aclanthology.org/2025.findings-naacl.292/">
+    <img width="52%" src="https://raw.githubusercontent.com/Jun0zo/Jun0zo/main/assets/naacl-2025-presentation.png" alt="Junyoung Jo presenting Representation-to-Creativity at NAACL 2025" />
+  </a>
+  <br />
+  <sub>Presenting <a href="https://aclanthology.org/2025.findings-naacl.292/"><i>Representation-to-Creativity (R2C)</i></a> at NAACL 2025.</sub>
+</div>
 
 <img align="right" width="130" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Purdue_University_system_logo.svg" alt="Purdue University" />
 
@@ -62,44 +71,6 @@ I turn field knowledge, operational constraints, and human context into AI syste
 - Detected and defended against Log4j exploitation without a major breach.
 
 <br clear="right" />
-
-## Featured work
-
-<a href="https://github.com/Jun0zo/visualize_dqn_simulation">
-  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/visualize_dqn_simulation" alt="Autonomous Off-Road Driving project" />
-</a>
-
-### [Autonomous Off-Road Driving](https://github.com/Jun0zo/visualize_dqn_simulation)
-Unity-based simulation and reinforcement-learning research for autonomous driving in unstructured agricultural terrain. Designed attention-based driving algorithms and supporting map-generation tooling.
-
-[Simulation](https://github.com/Jun0zo/visualize_dqn_simulation) · [Map generation](https://github.com/Jun0zo/generate_maps) · [Attention visualization](https://github.com/Jun0zo/attention-visualization)
-
-<a href="https://aclanthology.org/2025.findings-naacl.292/">
-  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/creativity-scoring" alt="Representation-to-Creativity project" />
-</a>
-
-### [Representation-to-Creativity (R2C)](https://aclanthology.org/2025.findings-naacl.292/)
-An automated holistic scoring model for essay creativity, published in **Findings of NAACL 2025**. The work introduces a creativity-focused rubric, a 5,048-essay dataset, and a self-supervised scoring approach.
-
-[Paper](https://aclanthology.org/2025.findings-naacl.292/) · [Research code](https://github.com/Jun0zo/creativity-scoring)
-
-<a href="https://github.com/Jun0zo/Javis_chatbot_server">
-  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/Javis_chatbot_server" alt="M-Javis Marketing Intelligence project" />
-</a>
-
-### [M-Javis Marketing Intelligence](https://github.com/Jun0zo/Javis_chatbot_server)
-A Kakao-based customer-engagement chatbot and marketing-trend analysis service. The chatbot served **25M users** and supported real-time interaction and feedback collection.
-
-[Chatbot server](https://github.com/Jun0zo/Javis_chatbot_server) · [Analysis](https://github.com/Jun0zo/Javis_analysis)
-
-<a href="https://github.com/Jun0zo/insight-flow">
-  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/insight-flow" alt="InsightFlow project" />
-</a>
-
-### [InsightFlow](https://github.com/Jun0zo/insight-flow)
-An AI-native qualitative research platform connecting survey design, transcript analysis, and insight synthesis in one workflow.
-
-[Repository](https://github.com/Jun0zo/insight-flow)
 
 ## Selected publications
 
