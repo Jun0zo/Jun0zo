@@ -24,12 +24,16 @@ I turn field knowledge, operational constraints, and human context into AI syste
 
 ## Experience
 
+<img align="right" width="130" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_SDS_logo.svg" alt="Samsung SDS" />
+
 ### Samsung SDS America · Data Analyst Intern
 *Dalton, Georgia · Feb 2025 – Feb 2026*
 
 - Reduced detention costs by **90%** and raised inventory-process accuracy to **98.7%**.
 - Engineered warehouse-layout simulations and integrated SAP with Cello WMS to improve outbound visibility.
 - Converted implicit field knowledge and SOP–reality gaps into better operational system logic.
+
+<br clear="right" />
 
 ### Data Intelligence Lab · Undergraduate Researcher
 *Kunsan, South Korea · Mar 2023 – Feb 2026*
@@ -38,11 +42,17 @@ I turn field knowledge, operational constraints, and human context into AI syste
 - Contributed to **2 KCI papers, 1 SCI paper, and NAACL Findings 2025**.
 - Participated in two industry–academic cooperation projects and co-authored a data-mining textbook.
 
+<img align="right" width="130" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Purdue_University_system_logo.svg" alt="Purdue University" />
+
 ### Purdue University · Visiting Scholar
 *West Lafayette, Indiana · Mar 2024 – Jun 2024*
 
 - Led a fully IITP-sponsored research team in collaboration with Purdue's Computer and Information Technology department.
 - Developed methods for evaluating privacy infringement in drone-captured imagery.
+
+<br clear="right" />
+
+<img align="right" width="105" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Naval_jack_of_South_Korea.svg" alt="Republic of Korea Navy" />
 
 ### R.O.K. Navy Cyber Operations Center · Information Security Engineer
 *Daejeon, South Korea · Jul 2021 – Jan 2023*
@@ -51,22 +61,40 @@ I turn field knowledge, operational constraints, and human context into AI syste
 - Built Splunk queries and a web service to visualize real-time intrusion attempts and threat patterns.
 - Detected and defended against Log4j exploitation without a major breach.
 
+<br clear="right" />
+
 ## Featured work
+
+<a href="https://github.com/Jun0zo/visualize_dqn_simulation">
+  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/visualize_dqn_simulation" alt="Autonomous Off-Road Driving project" />
+</a>
 
 ### [Autonomous Off-Road Driving](https://github.com/Jun0zo/visualize_dqn_simulation)
 Unity-based simulation and reinforcement-learning research for autonomous driving in unstructured agricultural terrain. Designed attention-based driving algorithms and supporting map-generation tooling.
 
 [Simulation](https://github.com/Jun0zo/visualize_dqn_simulation) · [Map generation](https://github.com/Jun0zo/generate_maps) · [Attention visualization](https://github.com/Jun0zo/attention-visualization)
 
+<a href="https://aclanthology.org/2025.findings-naacl.292/">
+  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/creativity-scoring" alt="Representation-to-Creativity project" />
+</a>
+
 ### [Representation-to-Creativity (R2C)](https://aclanthology.org/2025.findings-naacl.292/)
 An automated holistic scoring model for essay creativity, published in **Findings of NAACL 2025**. The work introduces a creativity-focused rubric, a 5,048-essay dataset, and a self-supervised scoring approach.
 
 [Paper](https://aclanthology.org/2025.findings-naacl.292/) · [Research code](https://github.com/Jun0zo/creativity-scoring)
 
+<a href="https://github.com/Jun0zo/Javis_chatbot_server">
+  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/Javis_chatbot_server" alt="M-Javis Marketing Intelligence project" />
+</a>
+
 ### [M-Javis Marketing Intelligence](https://github.com/Jun0zo/Javis_chatbot_server)
 A Kakao-based customer-engagement chatbot and marketing-trend analysis service. The chatbot served **25M users** and supported real-time interaction and feedback collection.
 
 [Chatbot server](https://github.com/Jun0zo/Javis_chatbot_server) · [Analysis](https://github.com/Jun0zo/Javis_analysis)
+
+<a href="https://github.com/Jun0zo/insight-flow">
+  <img width="100%" src="https://opengraph.githubassets.com/1/Jun0zo/insight-flow" alt="InsightFlow project" />
+</a>
 
 ### [InsightFlow](https://github.com/Jun0zo/insight-flow)
 An AI-native qualitative research platform connecting survey design, transcript analysis, and insight synthesis in one workflow.
@@ -80,15 +108,11 @@ An AI-native qualitative research platform connecting survey design, transcript 
 - **[Subtitle Automatic Extraction System for Short-form Contents](https://doi.org/10.14801/jkiit.2021.19.6.29)** · Journal of Korean Institute of Information Technology 19(6), 2021, pp. 29–37.
 - **Creative Essay Training Data Labeling System for Learning AI Models** · Journal of Korean Institute of Information Technology 21(10), 2023, pp. 69–82.
 
-## Education & recognition
-
-**B.S. in Software Engineering, Kunsan National University** · 2019–2026  
-GPA **3.88 / 4.5**, major GPA **3.99 / 4.5** · Highest academic standing in the department
+## Recognition
 
 - **Gold Award**, Undergraduate Thesis Competition, KIIT Conference, 2023
 - **Chief of Naval Operations Prize**, OSAM Hackathon, 2022
 - **3rd Prize**, Youth Metaverse Content Development Competition, 2023
-- **Highest Honors**, 2023 Spring and 2020 Fall
 
 ## AI-assisted engineering activity
 
