@@ -4,6 +4,14 @@
 
 I am an AI Engineer and System Architect focused on bridging the gap between simulation and real-world deployment. My core interest lies in translating tacit field knowledge, operational constraints, and human context into intelligence that robots and systems can understand.
 
+## 🤖 AI-assisted Engineering Activity
+
+> **11 / 11 active days** · **1,509 agent-assisted tasks** · **2,395 development turns**
+>
+> **GPT-5.6 85.6%** · **Claude 10.8%** · **Other models 3.6%**
+
+<sub>Activity window: Aug 21–31, 2026 (KST). Aggregated from local Codex activity, including orchestrated subagents. Automatically generated metrics only; prompts, source code, private repository names, and local paths are never published.</sub>
+
 ## 🎯 Focus Areas
 - **Robot Learning & Sim-to-Real:** Building simulation intelligence (e.g., Dreamer) that overcomes physical noise in unstructured environments like off-road and agricultural terrain.
 - **Operational Intelligence:** Formalizing human know-how (e.g., safety margins, SOPs) into system logic and reward functions for massive logistics environments.
