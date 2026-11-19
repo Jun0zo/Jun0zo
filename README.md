@@ -35,8 +35,8 @@ I turn field knowledge, operational constraints, and human context into AI syste
 
 <br clear="right" />
 
-### Data Intelligence Lab · Undergraduate Researcher
-*Kunsan, South Korea · Mar 2023 – Feb 2026*
+### Undergraduate Researcher
+*South Korea · Mar 2023 – Feb 2026*
 
 - Conducted research in autonomous off-road driving, sentiment intelligence, and automated essay evaluation.
 - Contributed to **2 KCI papers, 1 SCI paper, and NAACL Findings 2025**.
